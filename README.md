@@ -1,5 +1,5 @@
 ﻿# CMS da Comberweb
-### Respositório: Lf9q3saa
+### Respositório: https://github.com/comberdevdev/cmsBase
 
 ## Colaboradores:
 
